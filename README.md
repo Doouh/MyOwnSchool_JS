@@ -9,3 +9,4 @@ In this repository you will find some programs that progressively increase their
 |-----------------------|------------------------------------|
 |[0-hello_world](0-hello_world.js)|Application that prints `Hello world`, my name and my age.|
 |[1-minimalistic_calculator](1-minimalistic_calculator.js)|Program that displays the results of adding, subtracting, multiplying and dividing 6 by 3.|
+|[2-improved_hello](2-improved_hello.js)|program that asks the user for his first name and his last name. The program then displays them in one sentence.|
