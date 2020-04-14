@@ -15,3 +15,4 @@ In this repository you will find some programs that progressively increase their
 |[5-variable_swapping](5-variable_swapping.js)|Program that swap the values of variables number1 and number2.|
 |[6-following-day](6-following-day.js)|Program that accepts a day name from the user in the variable, then shows the name of the following day. Incorrect inputs must be taken into account.|
 |[7-number_comparison](7-number_comparison.js)|Program that accepts two numbers, then compares their values and displays an appropriate message in all cases.|
+|[8-number_days_of_month](8-number_days_of_month.js)|Program that accepts a month number (between 111 and 121212), then shows the number of days of that month. Leap years are excluded. Incorrect inputs must be taken into account.|
