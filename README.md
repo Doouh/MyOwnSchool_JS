@@ -14,3 +14,4 @@ In this repository you will find some programs that progressively increase their
 |[4-celsius_to_fahrenheit](4-celsius_to_fahrenheit.js)|Program that takes inputs from users in Celsius unit and returns it in Fahrenheit degree.|
 |[5-variable_swapping](5-variable_swapping.js)|Program that swap the values of variables number1 and number2.|
 |[6-following-day](6-following-day.js)|Program that accepts a day name from the user in the variable, then shows the name of the following day. Incorrect inputs must be taken into account.|
+|[7-number_comparison](7-number_comparison.js)|Program that accepts two numbers, then compares their values and displays an appropriate message in all cases.|
