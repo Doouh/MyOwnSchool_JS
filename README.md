@@ -17,3 +17,4 @@ In this repository you will find some programs that progressively increase their
 |[7-number_comparison](7-number_comparison.js)|Program that accepts two numbers, then compares their values and displays an appropriate message in all cases.|
 |[8-number_days_of_month](8-number_days_of_month.js)|Program that accepts a month number (between 1 and 12), then shows the number of days of that month. Leap years are excluded. Incorrect inputs must be taken into account.|
 |[9-following_second](9-following_second.js)|Program that asks for a time under the form of three information (hours, minutes, seconds). The program calculates and shows the time one second after. Incorrect inputs must be taken into account.|
+|[10-neither_yes_nor_no](10-neither_yes_nor_no.js)|Program that plays “neither yes, nor no” with the user. Specifically, the programs asks the user to enter text until either “yes” or “no” is typed, which ends the game.|
